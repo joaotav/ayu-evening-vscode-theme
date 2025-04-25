@@ -4,13 +4,7 @@
 
 # Ayu Evening - VS Code Theme
 
-
-
-A warm sunset-inspired color theme for VS Code based on the Ayu color palette with hints of Gruvbox dark.
-
-## Description
-
-Ayu Evening is a color theme that combines the elegant aesthetics of Ayu Mirage with the warmth of sunset colors and some inspiration from Gruvbox. The goal of this theme is to offer a comfortable coding experience by using balanced contrast and a warm color palette.
+A warm sunset-inspired color theme for VS Code based on the Ayu color palette with hints of Gruvbox dark. The goal of this theme is to offer a comfortable coding experience by using balanced contrast and a warm color palette.
 
 ## There are so many themes out there. Why create another one?
 
