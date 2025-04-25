@@ -52,13 +52,14 @@ This theme is inspired by:
 - [Ayu](https://github.com/ayu-theme/vscode-ayu) theme palette
 - [Gruvbox](https://github.com/morhetz/gruvbox) dark color scheme
 
-## 📝 License
+## License
 
 This theme is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
+
 ---
 
 **Enjoy coding in the warm glow of sunset! 🌅**
