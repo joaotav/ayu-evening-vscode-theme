@@ -1,0 +1,21 @@
+{
+  "name": "ayu-evening",
+  "displayName": "Ayu Evening",
+  "description": "A sunset-themed VSCode color theme with muted warm colors inspired by the Ayu theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ayu Evening",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu-evening-color-theme.json"
+      }
+    ]
+  }
+}
