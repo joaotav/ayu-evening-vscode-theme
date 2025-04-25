@@ -2,17 +2,17 @@
 
 A warm sunset-inspired color theme for VS Code based on the Ayu color palette with hints of Gruvbox dark.
 
-## ⚠️ Disclaimer
+## Description
 
-I created this theme primarily out of security concerns with third-party VSCode extensions. The recent security incidents, particulary the one involving the Material Theme extension, which is used by millions of developers, highlighted the  risks associated with trusting third-party extensions, even if they are widely used.
+Ayu Evening is a color theme that combines the elegant aesthetics of Ayu Mirage with the warmth of sunset colors and some inspiration from Gruvbox. The goal of this theme is to offer a comfortable coding experience by using balanced contrast and a warm color palette.
+
+### ⚠️ Disclaimer
+
+I created this theme primarily out of security concerns with third-party VSCode extensions. The recent security incidents associated with extensions, particulary the one involving the Material Theme, highlighted the risks associated with trusting third-party extensions, regardless if they are widely used.
 
 I felt uncomfortable continuing to use third-party themes that could potentially be compromised. Color themes should be simple, static resources that don't need broad system access or connections to external servers.
 
 This entire theme consists of static JSON files that define colors and syntax highlighting rules, nothing more. You can review the entire codebase in minutes to verify this for yourself.
-
-## Description
-
-Ayu Evening is a carefully crafted color theme that combines the elegant aesthetics of Ayu Mirage with the warmth of sunset colors and inspiration from Gruvbox. This theme offers a comfortable coding experience with its balanced contrast and warm color palette, designed to reduce eye strain during long coding sessions.
 
 ## Features
 
@@ -29,10 +29,6 @@ Ayu Evening is a carefully crafted color theme that combines the elegant aesthet
   - Bash/Shell
   - HTML/CSS
   - And more...
-
-- **Carefully selected colors** for comfortable viewing during both day and night coding sessions
-
-- **Improved syntax highlighting** that emphasizes important code elements while maintaining readability
 
 ## Screenshots
 
@@ -64,7 +60,7 @@ This theme is inspired by:
 
 This theme is released under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
 
