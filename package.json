@@ -1,8 +1,9 @@
 {
   "name": "ayu-evening",
-  "displayName": "Ayu Evening",
-  "description": "A sunset-themed VSCode color theme with muted warm colors inspired by the Ayu theme.",
-  "version": "0.0.1",
+  "displayName": "Ayu Evening Theme",
+  "description": "A warm sunset-inspired theme based on Ayu Mirage with hints of Gruvbox dark",
+  "version": "0.1.0",
+  "publisher": "João Chervinski",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -15,7 +16,32 @@
         "label": "Ayu Evening",
         "uiTheme": "vs-dark",
         "path": "./themes/ayu-evening-color-theme.json"
+      },
+      {
+        "label": "Ayu Evening Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu-evening-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "sunset",
+    "warm",
+    "ayu",
+    "gruvbox",
+    "orange",
+    "rust",
+    "python",
+    "javascript",
+    "go",
+    "cpp",
+    "bash"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaotav/ayu-evening-vscode-theme"
+  },
+  "license": "MIT"
 }
