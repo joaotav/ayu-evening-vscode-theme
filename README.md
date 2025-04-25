@@ -2,11 +2,11 @@
 
 A warm sunset-inspired color theme for VS Code based on the Ayu color palette with hints of Gruvbox dark.
 
-## 📄 Description
+## Description
 
 Ayu Evening is a carefully crafted color theme that combines the elegant aesthetics of Ayu Mirage with the warmth of sunset colors and inspiration from Gruvbox. This theme offers a comfortable coding experience with its balanced contrast and warm color palette, designed to reduce eye strain during long coding sessions.
 
-## ✨ Features
+## Features
 
 - **Two theme variants:**
   - **Ayu Evening**: A balanced dark theme with warm orange and blue accents
@@ -26,20 +26,11 @@ Ayu Evening is a carefully crafted color theme that combines the elegant aesthet
 
 - **Improved syntax highlighting** that emphasizes important code elements while maintaining readability
 
-## 🖼️ Screenshots
+## Screenshots
 
 *[Insert theme screenshots here showing different languages]*
 
 ## 📥 Installation
-
-### Installing from VS Code Marketplace
-
-1. Open **VS Code**
-2. Go to **Extensions** (Ctrl+Shift+X / Cmd+Shift+X)
-3. Search for **"Ayu Evening Theme"**
-4. Click **Install**
-5. Go to **File > Preferences > Color Theme** (or Code > Preferences > Color Theme on macOS)
-6. Select **Ayu Evening** or **Ayu Evening Dark**
 
 ### Installing from GitHub
 
@@ -55,24 +46,7 @@ git clone https://github.com/joaotav/ayu-evening-vscode-theme.git
 3. Restart VS Code
 4. Select the theme via **File > Preferences > Color Theme**
 
-## 🎨 Customization
-
-You can customize this theme further in your `settings.json` file. Here are some suggestions:
-
-```json
-{
-  "workbench.colorCustomizations": {
-    "[Ayu Evening]": {
-      // Add your custom overrides here
-    },
-    "[Ayu Evening Dark]": {
-      // Add your custom overrides here
-    }
-  }
-}
-```
-
-## 🌟 Credits
+## Credits
 
 This theme is inspired by:
 - [Ayu](https://github.com/ayu-theme/vscode-ayu) theme palette
