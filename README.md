@@ -32,7 +32,12 @@ This entire theme consists of static JSON files that define colors and syntax hi
 
 ## Screenshots
 
-*[Insert theme screenshots here showing different languages]*
+### Ayu Evening
+![Ayu Evening Screenshot](assets/images/ayu-evening.png)
+
+### Ayu Evening Dark
+![Ayu Evening Dark Screenshot](assets/images/ayu-evening-dark.png)
+
 
 ## 📥 Installation
 
