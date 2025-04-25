@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="assets/icons/ayu-evening-icon.png" width="20%" alt="Description">
+</p>
+
 # Ayu Evening - VS Code Theme
+
+
 
 A warm sunset-inspired color theme for VS Code based on the Ayu color palette with hints of Gruvbox dark.
 
