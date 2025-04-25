@@ -59,11 +59,6 @@ This theme is released under the MIT License. See the [LICENSE](LICENSE) file fo
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests.
-
-## 📞 Feedback
-
-If you have any feedback or suggestions, please open an issue on GitHub.
-
 ---
 
 **Enjoy coding in the warm glow of sunset! 🌅**
